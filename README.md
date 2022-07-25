@@ -13,3 +13,9 @@ Current version (version of the GitHub repository): **v1.0.1**
 
 - Build adjustments
     - Server started when executing the `gradle run` command
+
+### Build AWS Lambda Serverless Function
+
+````
+./gradlew shadowJar
+````
